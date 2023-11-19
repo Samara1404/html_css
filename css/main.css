@@ -1,0 +1,12 @@
+.main-text {
+    color: blue;
+}
+#text-in-p {
+    color: rgb(113, 11, 186);
+}
+div p b, div i {
+    color: rgb(254, 53, 53);
+}
+div, .nname-class, #id, div p{
+    color: greenyellow;
+}
